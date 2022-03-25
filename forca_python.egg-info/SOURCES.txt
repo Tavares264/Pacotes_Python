@@ -1,0 +1,9 @@
+README.md
+setup.py
+forca/__init__.py
+forca/forca.py
+forca_python.egg-info/PKG-INFO
+forca_python.egg-info/SOURCES.txt
+forca_python.egg-info/dependency_links.txt
+forca_python.egg-info/requires.txt
+forca_python.egg-info/top_level.txt
